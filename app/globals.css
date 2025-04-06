@@ -6,3 +6,16 @@
 .pfp{
   object-position: 0px -4px;
 }
+.naventry{
+  animation: naventer 0.5s ease forwards;
+  
+}
+@keyframes naventer {
+  from{
+    transform: translateY(-100%);
+  }
+  to{
+    transform: translateY(0%);
+  }
+  
+}
