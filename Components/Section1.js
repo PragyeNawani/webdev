@@ -6,7 +6,7 @@ const Section1 = () => {
         <div className="homecontainer mx-auto w-[90%] 2xl:w-[1500px] flex flex-col-reverse gap-[20px] 2xl:gap-0 xl:flex-row items-center justify-center">
             <div className="info xl:w-[40%] flex flex-col px-[5px] py-[5px] gap-[10px]">
                 <div className="infohead flex gap-[5px] items-center">
-                    <div><img src="./pfp.png" className='pfp h-[40px] w-[40px] rounded-xl object-cover' alt="" /></div>
+                    <div><img src="./IMG_4910.jpeg" className='pfp h-[40px] w-[40px] rounded-xl object-cover' alt="" /></div>
                     <div><div className='h-[15px] w-[15px] bg-opacity-60 bg-[#2eb62e] rounded-full flex items-center pl-[2px]'><svg xmlns="http://www.w3.org/2000/svg" className='h-[10px] w-[10px]' fill='#32CD32' viewBox="0 0 512 512"><path d="M256 512A256 256 0 1 0 256 0a256 256 0 1 0 0 512z"/></svg></div></div>
                     <div className='text-gray-600'>Available For Work</div>
                 </div>
